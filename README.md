@@ -234,8 +234,6 @@
 
 Perfect 🔥 This is a **complete DevOps + GCP SRE Master Program** structure designed from **Beginner → Advanced → Production → Capstone** level.
 
-Since you’re targeting **GCP SRE / DevOps roles**, I’ll structure this as a **real industry-ready curriculum** with labs and production architecture.
-
 ---
 
 # 🚀 DEVOPS + GKE MASTER COURSE ROADMAP
