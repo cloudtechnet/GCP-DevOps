@@ -79,6 +79,7 @@
 * Subnets & CIDR
 * Firewall Rules
 * Routes & Routing Tables
+* Public Subnet Vs Private Subnet
 * Cloud NAT
 * VPC Peering
 * Shared VPC
